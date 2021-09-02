@@ -3584,7 +3584,7 @@ textarea.form-control-lg {
 }
 .btn-link:hover {
   /* old dark teal color: #50817e;*/
-  color: #a9957b
+  color: #a9957b;
 }
 .btn-link:disabled, .btn-link.disabled {
   color: #6c757d;
