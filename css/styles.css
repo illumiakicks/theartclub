@@ -21,6 +21,7 @@
   --bs-green: #67c29c;
   --bs-teal: #64a19d;
   --bs-cyan: #1cabc4;
+  --bs-gold: #d4af37;
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
@@ -11684,4 +11685,10 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+
+/* Theme Customization */
+
+.framed {
+  border: 0.25rem solid #d4af37 
 }
